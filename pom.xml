@@ -17,6 +17,7 @@
         <module>alibaba-nacos-discovery-client-feign</module>
         <module>alibaba-nacos-config-client</module>
         <module>alibaba-nacos-config-client-profiles</module>
+        <module>alibaba-nacos-config-client-profiles-shared</module>
     </modules>
     
     <build>
