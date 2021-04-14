@@ -18,6 +18,7 @@
         <module>alibaba-nacos-config-client</module>
         <module>alibaba-nacos-config-client-profiles</module>
         <module>alibaba-nacos-config-client-profiles-shared</module>
+        <module>alibaba-sentinel-rate-limiting</module>
     </modules>
     
     <build>
