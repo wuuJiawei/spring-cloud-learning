@@ -21,6 +21,8 @@
         <module>alibaba-sentinel-rate-limiting</module>
         <module>alibaba-sentinel-resource</module>
         <module>alibaba-sentinel-datasource-nacos</module>
+        <module>alibaba-rocketmq-simple</module>
+        <module>elasticsearch-client</module>
     </modules>
     
     <build>
